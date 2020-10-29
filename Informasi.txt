@@ -1,0 +1,9 @@
+Install Database terlebih dahulu, terletak di folder database.
+
+login sebagai admin, dengan username : admin dan password : admin
+
+terdapat 3 level user
+
+1. Admin
+2. Petugas
+3. Pelanggan
